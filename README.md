@@ -26,3 +26,15 @@ Setting IDE
 - color theme: Material Theme Palenight High Contrast
 
 ![](https://github.com/nhoxnho1212/SettingIDE/blob/master/ScreenShotVScode.png)
+
+## Jetbrain IDE 
+### Plugins:
+- IdeaVim
+- Material theme UI
+- [Kite](https://kite.com/) (*for javascript and Python*)
+### Settings:
+- font family: [Fira code](https://fonts.google.com/specimen/Fira+Code)
+- font ligatures: &check;
+- color theme: Material Theme Palenight High Contrast
+
+![](https://github.com/nhoxnho1212/SettingIDE/blob/master/jetbrainIDE/ScreenShotWebstorm.png)
