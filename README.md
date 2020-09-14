@@ -1,7 +1,7 @@
 # SettingIDE
 Setting IDE
 
-## Visual Studio Code [*link sync settings*](https://gist.github.com/nhoxnho1212/429ff7c28c6f2d77fd91984686d75bf6)
+## Visual Studio Code [*link sync settings*](https://gist.github.com/nhoxnho1212/fff1677b376e8c234820c9c30040de55)
 ### Extensions:
 - Bookmarks
 - Bracket Pair Colorizer
@@ -15,6 +15,7 @@ Setting IDE
 - Settings Sync (using for sync setting)
 - Vim 
 - Visual Studio IntelliCode
+- Path intellicode
 
 **For programming languages:**
 - Live server (*for Javascript*)
