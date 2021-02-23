@@ -1,7 +1,7 @@
 # SettingIDE
 Setting IDE
 
-## Visual Studio Code [*link sync settings*](https://gist.github.com/nhoxnho1212/fff1677b376e8c234820c9c30040de55)
+## Visual Studio Code [*link sync settings*](https://gist.github.com/nhoxnho1212/7ab7b831f3e6b5391ce82c01fe5f0e50)
 ### Extensions:
 - Bookmarks
 - Bracket Pair Colorizer
